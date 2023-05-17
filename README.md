@@ -74,7 +74,7 @@ dt.predict([[0.5,0.8,9,260,6,0,1,2]])
 
 ![image](https://github.com/andralikitha/Implementation-of-Decision-Tree-Classifier-Model-for-Predicting-Employee-Churn/assets/131592130/5857ff5f-72c4-4265-80ba-2f5359877070)
 
-![image](https://![image](https://github.com/andralikitha/Implementation-of-Decision-Tree-Classifier-Model-for-Predicting-Employee-Churn/assets/131592130/f71ab96b-4ebd-4c27-80c9-bc094d607218)
+![image](https://github.com/andralikitha/Implementation-of-Decision-Tree-Classifier-Model-for-Predicting-Employee-Churn/assets/131592130/f71ab96b-4ebd-4c27-80c9-bc094d607218)
 
 ![image](https://github.com/andralikitha/Implementation-of-Decision-Tree-Classifier-Model-for-Predicting-Employee-Churn/assets/131592130/67375816-b020-483d-a66d-ee133bacb4ce)
 
